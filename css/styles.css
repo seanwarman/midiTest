@@ -30,9 +30,9 @@ button	{
 	display: inline-block;
 }
 
-#block1:hover, #block2:hover, #block3:hover, #block4:hover	{
+/*#block1:hover, #block2:hover, #block3:hover, #block4:hover	{
 	background-color: black;
-}
+}*/
 
 #block1:active, #block2:active, #block3:active, #block4:active	{
 	background-color: yellow;
