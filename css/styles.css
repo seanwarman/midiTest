@@ -1,0 +1,39 @@
+#block1	{
+	width: 400px;
+	height: 400px;
+	background-color: blue;
+	border: none;
+}
+
+#block2	{
+	width: 400px;
+	height: 400px;
+	background-color: red;
+	border: none;
+}
+
+#block3	{
+	width: 400px;
+	height: 400px;
+	background-color: green;
+	border: none;
+}
+
+#block4	{
+	width: 400px;
+	height: 400px;
+	background-color: pink;
+	border: none;
+}
+
+button	{
+	display: inline-block;
+}
+
+#block1:hover, #block2:hover, #block3:hover, #block4:hover	{
+	background-color: black;
+}
+
+#block1:active, #block2:active, #block3:active, #block4:active	{
+	background-color: yellow;
+}
